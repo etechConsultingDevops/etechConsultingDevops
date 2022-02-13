@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -    etech is a proven consulting firm  
+-    i love etech   
 
 <!---
 etechConsultingDevops/etechConsultingDevops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
